@@ -1,0 +1,8 @@
+# Developer: 乌鸦 (Crow)
+fastapi
+uvicorn
+gunicorn
+uvloop
+aiohttp
+netaddr
+dnspython
